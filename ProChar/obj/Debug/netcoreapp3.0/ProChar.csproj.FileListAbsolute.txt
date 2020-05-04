@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ProChar\bin\Debug\netcoreapp3.0\ProChar.exe
+C:\Users\User\source\repos\ProChar\bin\Debug\netcoreapp3.0\ProChar.deps.json
+C:\Users\User\source\repos\ProChar\bin\Debug\netcoreapp3.0\ProChar.runtimeconfig.json
+C:\Users\User\source\repos\ProChar\bin\Debug\netcoreapp3.0\ProChar.runtimeconfig.dev.json
+C:\Users\User\source\repos\ProChar\bin\Debug\netcoreapp3.0\ProChar.dll
+C:\Users\User\source\repos\ProChar\bin\Debug\netcoreapp3.0\ProChar.pdb
+C:\Users\User\source\repos\ProChar\obj\Debug\netcoreapp3.0\ProChar.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProChar\obj\Debug\netcoreapp3.0\ProChar.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProChar\obj\Debug\netcoreapp3.0\ProChar.AssemblyInfo.cs
+C:\Users\User\source\repos\ProChar\obj\Debug\netcoreapp3.0\ProChar.dll
+C:\Users\User\source\repos\ProChar\obj\Debug\netcoreapp3.0\ProChar.pdb
